@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "412546515829",
+    "project_id": "ddavz-6978b",
+    "storage_bucket": "ddavz-6978b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412546515829:android:caaf63120108bc00c7c93c",
+        "android_client_info": {
+          "package_name": "com.example.ddevz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412546515829-ma3d8f76o6as40cfhpeclhq7nhsuruo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDznUkCzzw0CDtA8J-WxxAq5bkvCJzeXIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412546515829-ma3d8f76o6as40cfhpeclhq7nhsuruo6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412546515829-pp7sdkesf4urnd42g7anl7dgsov1audd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ddevz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
